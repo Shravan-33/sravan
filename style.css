@@ -1,0 +1,16 @@
+body{
+    width: 1575px;
+    height: 760px;
+    background-color: #ccfcfc;
+}
+img{
+    height: 10%;
+    width: 10%;
+}
+hr{
+    width: 1450px;
+    color: black;
+}
+#form{
+    padding-left: 20px;
+}

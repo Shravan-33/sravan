@@ -1,6 +1,6 @@
 body{
-    width: 1575px;
-    height: 760px;
+    width: 100%;
+    height: 100%;
     background-color: #ccfcfc;
 }
 img{
@@ -8,9 +8,9 @@ img{
     width: 10%;
 }
 hr{
-    width: 1450px;
+    width: 90%;
     color: black;
 }
 #form{
-    padding-left: 20px;
+    padding-left: 10%;
 }
